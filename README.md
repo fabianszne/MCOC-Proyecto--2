@@ -32,82 +32,82 @@ Implementar un modelo de simulacion numerico para transporte de sedimentos de fo
 
 - N° de Particulas: 1
 - Tiempos de compilacion:
-	* Prueba 1:2.197
-	* Prueba 2:1.94
-	* Prueba 3:1.718
-	* Media:1.952
+	* Prueba 1:1.576
+	* Prueba 2:1.577
+	* Prueba 3:1.618
+	* Media:1.59
 - N° de Particulas: 2
 - Tiempos de compilacion:
-	* Prueba 1:2.442
-	* Prueba 2:2.092
-	* Prueba 3:2.276
-	* Media:2.263
+	* Prueba 1:4.88
+	* Prueba 2:5.30
+	* Prueba 3:4.99
+	* Media:5.05
 - N° de Particulas: 3
 - Tiempos de compilacion:
-	* Prueba 1:3.661
-	* Prueba 2:3.552
-	* Prueba 3: 3.596
-	* Media:3.603
+	* Prueba 1:14.00
+	* Prueba 2:14.25
+	* Prueba 3:14.20
+	* Media:14.15
 - N° de Particulas: 4
 - Tiempos de compilacion:
-	* Prueba 1:7.6
-	* Prueba 2:5.039
-	* Prueba 3:5.085
-	* Media:5.908
+	* Prueba 1:22.90
+	* Prueba 2:33.35
+	* Prueba 3:24.50
+	* Media:
 - N° de Particulas: 5
 - Tiempos de compilacion:
-	* Prueba 1:13.794
-	* Prueba 2:7.6
-	* Prueba 3:8.952
-	* Media:10.115
+	* Prueba 1:34.03
+	* Prueba 2:34.02
+	* Prueba 3:53.65
+	* Media:
 - N° de Particulas: 6
 - Tiempos de compilacion:
-	* Prueba 1:17.09
-	* Prueba 2:26.009
-	* Prueba 3:27.692
-	* Media:23.597
+	* Prueba 1:75.07
+	* Prueba 2:65.69
+	* Prueba 3:110.46
+	* Media:
 - N° de Particulas: 7
 - Tiempos de compilacion:
-	* Prueba 1:25.165
-	* Prueba 2:31.604
-	* Prueba 3:23.523
-	* Media:26.764
+	* Prueba 1:253.59
+	* Prueba 2:217.34
+	* Prueba 3:246.24
+	* Media:
 - N° de Particulas: 8
 - Tiempos de compilacion:
-	* Prueba 1:29.566
-	* Prueba 2:28.809
-	* Prueba 3:50.694
-	* Media:36.356
+	* Prueba 1:308.26
+	* Prueba 2:408.44
+	* Prueba 3:336.17
+	* Media:
 - N° de Particulas: 9
 - Tiempos de compilacion:
-	* Prueba 1:58.832
-	* Prueba 2:74.51
-	* Prueba 3:48.6
-	* Media:60.647
+	* Prueba 1:318.04
+	* Prueba 2:300.29
+	* Prueba 3:
+	* Media:
 - N° de Particulas: 10
 - Tiempos de compilacion:
-	* Prueba 1:84.565
-	* Prueba 2:123.372
-	* Prueba 3:131.434
-	* Media:113.124
+	* Prueba 1:
+	* Prueba 2:
+	* Prueba 3:
+	* Media:
 - N° de Particulas: 11
 - Tiempos de compilacion:
-	* Prueba 1:85.307
-	* Prueba 2:149.472
-	* Prueba 3:84.307
-	* Media:106.477
+	* Prueba 1:
+	* Prueba 2:
+	* Prueba 3:
+	* Media:
 - N° de Particulas: 12
 - Tiempos de compilacion:
-	* Prueba 1:216.095
-	* Prueba 2:446.621
-	* Prueba 3:163.211
-	* Media:275.309
+	* Prueba 1:
+	* Prueba 2:
+	* Prueba 3:
+	* Media:
 - N° de Particulas: 13
 - Tiempos de compilacion:
-	* Prueba 1:312.009
-	* Prueba 2:224.496
-	* Prueba 3:308.924
-	* Media:281.810
+	* Prueba 1:
+	* Prueba 2:
+	* Prueba 3:
+	* Media:
 - N° de Particulas: 14
 - Tiempos de compilacion:
 	* Prueba 1:
